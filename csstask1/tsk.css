@@ -1,0 +1,29 @@
+
+#td1{
+	border:solid;
+	border-radius: 20px 65px;
+	color: white;
+	background-color: black;
+	padding: 30px 200px 30px 200px;
+}
+#td2{
+	border:solid;
+	border-radius: 25px 85px;
+	color: pink;
+	background-color: grey;
+	padding: 30px 200px 30px 200px;
+}
+#td3{
+	border:solid;
+	border-radius: 20px 85px;
+	color: white;
+	background-color: black;
+	padding: 30px 200px 30px 200px;
+}
+#td4{
+	border:solid;
+	border-radius: 25px 65px;
+	color: pink;
+	background-color: grey;
+	padding: 30px 200px 30px 200px;
+}

@@ -1,0 +1,23 @@
+body{
+	background-color: grey;
+}
+.text{
+    display: block;
+   border-radius: 35px;
+    width: 300%;
+    margin:200px;
+    padding: 14px;
+}
+.term{
+	border-radius: 50px 50px 50px 50px;
+	height: 25px;
+	width: 200px;
+}
+.button{
+	width: 40px;
+    height: 25px;
+}
+
+.fa-search{
+	
+}
